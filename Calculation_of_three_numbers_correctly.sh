@@ -7,7 +7,7 @@ echo "the result is: $RESULT"
 
 #Result need to be
 if [[ $RESULT -eq 40 ]]; then
-  echo "result is 40"
+  echo "Sucess"
 else
-  echo "error"
+  echo "Fail"
 fi
